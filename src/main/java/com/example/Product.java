@@ -2,7 +2,7 @@ package com.example;
 import java.math.BigDecimal;
 
 public class Product {
-
+    //коммент для проверки кеша
     private final String id;
     private final String name;
     private final BigDecimal price;
